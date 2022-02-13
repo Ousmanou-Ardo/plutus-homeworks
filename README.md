@@ -18,5 +18,5 @@ we did scriptvalidator and  looked at Typed and Untyped Validators
 The homework completed the Validator part of the Plutus Script to get it everything function properly
 
 
-##week 3
+## week 3
 In this we deployed the cardono-testnet
